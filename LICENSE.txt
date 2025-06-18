@@ -1,0 +1,61 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2025 JintẽliaS. All rights reserved.
+
+This source code repository ("Repository") is made publicly available on GitHub 
+solely for the purpose of professional demonstration and portfolio presentation. 
+No rights are granted to any person or entity regarding the use, reproduction, 
+modification, or distribution of the code contained herein.
+
+TERMS OF USE:
+
+1. VIEWING RIGHTS ONLY
+   You are granted permission to view the source code in this repository for 
+   evaluation purposes only. This includes:
+   - Reviewing for technical assessment
+   - Understanding implementation approaches
+   - Educational reference
+
+2. PROHIBITED ACTIONS
+   Without explicit written permission from the copyright holder (JintẽliaS), 
+   you are expressly prohibited from:
+   a) Copying, reproducing, or cloning any portion of the code
+   b) Modifying, adapting, or creating derivative works
+   c) Distributing, publishing, or sharing the code with third parties
+   d) Using the code in any commercial or personal projects
+   e) Reverse engineering, decompiling, or disassembling the code
+   f) Claiming ownership or authorship of any portion of the code
+
+3. INTELLECTUAL PROPERTY
+   All intellectual property rights in the code, including but not limited to 
+   copyrights, trade secrets, and know-how, are and shall remain the exclusive 
+   property of JintẽliaS. This license does not transfer any intellectual 
+   property rights to you.
+
+4. NO WARRANTY
+   The code is provided "AS IS" without warranty of any kind, express or implied, 
+   including but not limited to the warranties of merchantability, fitness for a 
+   particular purpose, and non-infringement.
+
+5. TERMINATION
+   This license terminates automatically if you violate any of these terms. Upon 
+   termination, you must immediately cease all activities related to the code.
+
+6. PERMISSION REQUESTS
+   For any usage beyond viewing, including but not limited to:
+   - Technical interviews
+   - Educational purposes
+   - Potential collaboration
+   Please contact us at jintelias1@gmail.com to request written permission.
+
+7. ENFORCEMENT
+   JintẽliaS reserves the right to take legal action against any unauthorized use 
+   or violation of these terms.
+
+By accessing, viewing, or using this repository in any way, you acknowledge that 
+you have read, understood, and agree to be bound by these terms. If you do not 
+agree to these terms, you must immediately cease accessing this repository.
+
+For licensing inquiries:
+Contact: jintelias1@gmail.com
+LinkedIn: https://www.linkedin.com/company/80815905/

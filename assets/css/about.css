@@ -1,0 +1,46 @@
+/* About Section */
+.about .container {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.about-image {
+    flex: 1;
+    border-radius: var(--card-radius);
+    overflow: hidden;
+    box-shadow: var(--shadow-hover);
+    animation: fadeInLeft 0.8s ease-out;
+}
+
+.about-image img {
+    width: 100%;
+    height: auto;
+    transition: var(--transition);
+}
+
+.about-content {
+    flex: 1;
+    animation: fadeInRight 0.8s ease-out;
+}
+
+.about-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: var(--accent);
+}
+
+.about-content p {
+    margin-bottom: 20px;
+    color: var(--light-gray);
+}
+
+@media (max-width: 992px) {
+    .about .container {
+        flex-direction: column;
+    }
+    
+    .about-content {
+        text-align: center;
+    }
+}

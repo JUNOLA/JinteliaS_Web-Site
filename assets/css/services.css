@@ -1,0 +1,59 @@
+/* Services Section */
+.services {
+    background: rgba(30, 30, 44, 0.5);
+    backdrop-filter: blur(10px);
+    border-radius: var(--radius);
+    padding: 60px;
+    margin: 40px 0;
+}
+
+.services-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.service-card {
+    background: rgba(30, 30, 44, 0.7);
+    border-radius: var(--card-radius);
+    padding: 30px;
+    transition: var(--transition);
+    border: 1px solid rgba(67, 97, 238, 0.2);
+    height: 100%;
+}
+
+.service-card:hover {
+    transform: translateY(-10px);
+    box-shadow: var(--shadow-hover);
+    border-color: var(--primary);
+    background: rgba(30, 30, 44, 0.9);
+}
+
+.service-icon {
+    font-size: 2.5rem;
+    color: var(--accent);
+    margin-bottom: 20px;
+}
+
+.service-card h3 {
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    color: var(--accent);
+}
+
+.service-card p {
+    color: var(--light-gray);
+    margin-bottom: 20px;
+}
+
+@media (max-width: 992px) {
+    .services {
+        padding: 30px;
+    }
+}
+
+@media (max-width: 768px) {
+    .services-grid {
+        grid-template-columns: 1fr;
+    }
+}
